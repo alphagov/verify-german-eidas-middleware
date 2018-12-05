@@ -1,3 +1,7 @@
+See the [GOV.UK Verify documentation for working with the German Middleware](https://verify-team-manual.cloudapps.digital/german-middleware/#german-middleware) if you need to know how we run our instance at GDS.
+
+Below is the original readme.
+
 # Governikus eIDAS Middleware
 
 This repository contains the source code of the German eIDAS middleware.
